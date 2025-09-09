@@ -1,10 +1,13 @@
-import { useState } from "react";
-import "./App.css";
+import React, { useState } from "react";
+import Header from "./components/Header";
+import Hero from "./components/Hero";
+import GRN from "./components/GRN";
 
-function App() {
-  const [count, setCount] = useState(0);
-
-  return <></>;
+export default function App() {
+  return (
+    <div className="flex flex-col justify-center ">
+      <Header />
+      <Hero />
+    </div>
+  );
 }
-
-export default App;

@@ -15,7 +15,7 @@ const Header = () => {
         </Link>
       </header>
       <nav>
-        <ul className="flex flex-row ml-80 space-x-6 font-bold cursor-pointer">
+        <ul className="flex flex-row ml-96 space-x-6 font-bold cursor-pointer">
           <Link to="/">
             <li>MENU</li>
           </Link>
@@ -30,7 +30,7 @@ const Header = () => {
           </Link>
         </ul>
       </nav>
-      <button className="bg-red-700 px-3 py-0.5 ml-96 cursor-pointer font-medium text-white">
+      <button className="bg-red-700 px-3 py-0.5 ml-80 cursor-pointer font-medium text-white">
         Login
       </button>
     </div>

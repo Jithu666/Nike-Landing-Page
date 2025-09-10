@@ -1,4 +1,4 @@
-**_sNike Landing Page_**
+**_Nike Landing Page_**
 
 A modern, responsive landing page built with React and Tailwind CSS, inspired by Nike’s design aesthetics. The project focuses on clean UI, minimalism, and smooth user experience, making it a solid base for learning or extending with more advanced features.
 ✨ Features

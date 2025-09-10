@@ -19,3 +19,5 @@ Tailwind CSS – utility-first CSS framework for rapid styling.
 **_🚀 Getting Started_**
 Prerequisites
 Make sure you have Node.js and npm (or yarn) installed.
+
+![alt text](<public/Nike Landing Page.png>)
